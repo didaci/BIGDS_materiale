@@ -1,0 +1,9 @@
+Come utilizzare le dispense
+
+Le dispense sono state ideate e scritte pensando a un lettore che parte da zero, senza alcuna conoscenza pregressa di informatica o di programmazione. Spero di essere riuscito nell’intento. Se doveste accorgervi che alcune parti del discorso richiedono conoscenze preliminari che non avete, vi invito a segnalarmelo.
+
+Le SLIDE contengono tutti i temi trattati a lezione. Sono state pensate principalmente per la proiezione in aula e, per questo motivo, non contengono spiegazioni oppure le riportano in forma molto sintetica. Le DISPENSE, invece, contengono una spiegazione più completa e, spero, esaustiva degli argomenti affrontati.
+
+Può capitare che alcuni argomenti di dettaglio siano presenti nelle dispense ma completamente assenti dalle slide. Considerate questi argomenti come OPZIONALI: se un argomento non è presente nelle slide, non sarà richiesto per superare l’esame. In questi casi, le dispense forniscono semplicemente un approfondimento facoltativo per chi desidera saperne di più.
+
+Ho cercato di scrivere le dispense con la massima cura e di eliminare eventuali errori. Tuttavia, è possibile che qualche piccolo errore sia ancora presente. Se doveste trovarne, vi prego di segnalarmelo.
